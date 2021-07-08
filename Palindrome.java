@@ -1,4 +1,4 @@
-public class palindrome {
+public class Palindrome {
     public static boolean isPalindrome(int x) {
         String num = String.valueOf(x);
         int len = num.length();
